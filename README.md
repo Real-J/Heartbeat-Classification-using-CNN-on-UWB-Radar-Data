@@ -106,7 +106,7 @@ Raw UWB Data:
 ![Ultral Wide Band Raw](UWB_HB.png)
 
 The script plots detected heartbeats with their classifications:
-![Heartbeat Visualization](rawUWB.png)
+![Heartbeat Visualization](UWB_HB.png)
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
