@@ -110,3 +110,9 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 This project is licensed under the MIT License.
 
+## Credits
+
+The UWB dataset was provided by Moro, G.; Di Luca, F.; Dardari, D.; Frisoni, G. Human Being Detection from UWB NLOS Signals: Accuracy and Generality of Advanced Machine Learning Models. Sensors 2022, 22, 1656. https://doi.org/10.3390/s22041656.
+
+The CNN was trained with the pubilcally available ECG dataset (https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
+
