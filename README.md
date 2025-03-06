@@ -102,7 +102,7 @@ Total detected heartbeats classified: 5
 
 ## Visualization
 The script plots detected heartbeats with their classifications:
-![Heartbeat Visualization](example_plot.png)
+![Heartbeat Visualization](UWB_HB.png)
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
