@@ -103,7 +103,7 @@ Total detected heartbeats classified: 5
 ## Visualization
 
 Raw UWB Data:
-![Ultral Wide Band Raw](raw UWB.png)
+![Ultral Wide Band Raw](raw_UWB.png)
 
 The script plots detected heartbeats with their classifications:
 ![Heartbeat Visualization](UWB_HB.png)
